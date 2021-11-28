@@ -1,0 +1,82 @@
+
+/*jumbotron*/
+
+.jumbotron{
+    background-color: white;
+    height:636;
+}
+
+.jumbotron .display-4 {
+    font-size: 72px;
+    text-align: start;
+    margin-top: 166px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.jumbotron .display-4 span{
+    font-weight: bold;
+}
+.jumbotron .display-p{
+    font-size: 24px;
+    color:#090909;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+/*info panel*/
+
+.info-panel{
+    background-color:rgb(255, 255, 255);
+    margin-top: -100px;
+    padding: 30px;
+}
+.info-panel h1{
+    font-size: 48px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 72px;
+}
+.info-panel h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 150px;
+}
+.info-panel p{
+    font-size: 18px;
+}
+.info-panel img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: calc(50% - 24px/2);
+    top: calc(50% - 24px/2);
+}
+.production{
+    border-color: red;
+}
+
+/*founder*/
+
+.testimoni h1{
+    font-size: 48px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 72px;
+    margin-left:10px;
+
+}
+.testimoni{
+    background:rgb(128, 79, 79);
+    text-align:center;
+    
+}
+.cont1{
+    background:rgb(212, 192, 200);
+  margin-top:10px;
+  margin-bottom:20px;
+  margin:center;
+
+}
+
